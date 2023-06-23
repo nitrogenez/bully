@@ -1,0 +1,15 @@
+[package]
+name = "bully"
+version = "0.1.0"
+edition = "2021"
+authors = ["nitrogenez"]
+license = "BSD-3-Clause"
+
+[dependencies]
+anyhow = "1.0.71"
+tracing = "0.1.37"
+tracing-subscriber = "0.3.17"
+clap = { version = "4.3.4", features = ["derive"] }
+rand = "0.8.5"
+mozdevice = "0.5.1"
+passwords = "3.1.13"
