@@ -1,6 +1,13 @@
 Bully
 =====
 
+![GitHub](https://img.shields.io/github/license/nitrogenez/bully)
+![GitHub issues](https://img.shields.io/github/issues/nitrogenez/bully)
+![GitHub Repo stars](https://img.shields.io/github/stars/nitrogenez/bully)
+![GitHub forks](https://img.shields.io/github/forks/nitrogenez/bully)
+
+
+
 **Bully** is an open source lock screen brute-force
 utility for Android phones. It aims to provide an easy to use CLI,
 be fast and flexible.
