@@ -6,6 +6,9 @@ Bully
 ![GitHub Repo stars](https://img.shields.io/github/stars/nitrogenez/bully)
 ![GitHub forks](https://img.shields.io/github/forks/nitrogenez/bully)
 
+> **Warning**  
+> I apologise, but I don't work with Rust   
+> anymore. Bully is no longer maintained.
 
 
 **Bully** is an open source lock screen brute-force
